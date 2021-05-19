@@ -1,0 +1,26 @@
+body{
+    background-color: darkmagenta;
+    font-family: 'Courgette', cursive;
+    font-size: 40px;
+}
+.design_css{
+    background-color: white;
+    border-radius: 30px;
+    margin: 10px;
+}
+.design_css #design
+{
+    font-size: 30px;
+}
+.design_css img{
+    width: 350px;
+    height: 200px;
+    border: 3px dashed black;
+    border-radius: 10px;
+}
+#design-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    margin: 20px;
+}
